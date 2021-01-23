@@ -1,3 +1,4 @@
 *.sh
 *.log
 *.ipynb_checkpoints
+*.csv
